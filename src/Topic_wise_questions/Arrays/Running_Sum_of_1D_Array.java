@@ -3,6 +3,7 @@ import java.util.*;
 /*
  *Given an array we have to find running sum of the array
  *Definition of running sum runningSum[index] = SUM(array[0..index])
+ *Read Comments for more information
  */
 class Running_Sum_of_1D_Array {
     public static int[] runningSum(int[] nums) {
