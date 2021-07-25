@@ -11,3 +11,9 @@ Collection of Must Do coding Question for Interview Preparation using Java.
 2.[Min and Max Element in an Array](/src/Topic_wise_questions/Arrays/FindMinandMaxElementinArray)
 
 3.[Kth Smallest Element in an Array](/src/Topic_wise_questions/Arrays/KthSmallestElement.java)
+
+4.[Sort an array of 0s, 1s and 2s]()
+
+5.[Move all negative numbers to one side of array]()
+
+6.[Find Union and Intersection of two sorted Arrays]()
