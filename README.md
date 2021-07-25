@@ -12,7 +12,7 @@ Collection of Must Do coding Question for Interview Preparation using Java.
 
 3.[Kth Smallest Element in an Array](/src/Topic_wise_questions/Arrays/KthSmallestElement.java)
 
-4.[Sort an array of 0s, 1s and 2s]()
+4.[Sort an array of 0s, 1s and 2s](/src/Topic_wise_questions/Arrays/SortAnArrayof0and1.java)
 
 5.[Move all negative numbers to one side of array]()
 
