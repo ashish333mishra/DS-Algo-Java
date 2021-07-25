@@ -16,9 +16,9 @@ Collection of Must Do coding Question for Interview Preparation using Java.
 
 5.[Move all negative numbers to one side of array](/src/Topic_wise_questions/Arrays/MoveNegativeNumberToOneSideInArray.java)
 
-6.[Find Union and Intersection of two sorted Arrays]()
+6.[Find Union and Intersection of two sorted Arrays]
 
-7.[Cyclically Rotate an Array]()
+7.[Cyclically Rotate an Array](/src/Topic_wise_questions/Arrays/CyclicRotateArrayByOne.java)
 
 8.[Largest Sum Contigous Sub Array]()
 
