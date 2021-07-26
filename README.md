@@ -20,32 +20,11 @@ Collection of Must Do coding Question for Interview Preparation using Java.
 
 7.[Cyclically Rotate an Array](/src/Topic_wise_questions/Arrays/CyclicRotateArrayByOne.java)
 
-8.[Largest Sum Contigous Sub Array]()
 
-9.[Minimise The Maximum difference between heights]()
+## Matrix
 
-10.[Minimum no. of jumps to reach end of Array]()
+## String
 
-11.[Find Duplicate in an Array of N+1 Integers]()
+1.[Reverse A String]()
 
-12.[Merge two sorted Arrays using extra space]()
-
-13.[Kadane's Algorithm]()
-
-14.[Merge Intervals]()
-
-15.[Next Permutation]()
-
-16.[Count Inversion]()
-
-17.[Best Time to buy and Sell Stock]()
-
-18.[find all pairs on integer array whose sum is equal to given number]()
-
-19.[find common elements In 3 sorted arrays]()
-
-20.[Rearrange the array in alternating positive and negative items with O(1) extra space]()
-
-21.[Find if there is any subarray with sum equal to 0]()
-
-22.[Find factorial of a large number]()
+## Linked List
